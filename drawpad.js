@@ -1,6 +1,23 @@
 let container=document.querySelector(".container");
-const colors = ['#e74c3c', '#8e44ad', '#3498db', '#e67e22', '#2ecc71'];
 
+const colors = [
+    '#e74c3c', 
+    '#8e44ad', 
+    '#3498db', 
+    '#e67e22', 
+    '#2ecc71', 
+    '#1abc9c', 
+    '#3498db', 
+    '#9b59b6', 
+    '#34495e', 
+    '#f39c12', 
+    '#27ae60',
+    '#c0392b',
+    '#2980b9',
+    '#d35400',
+    '#16a085',
+  ];
+  
 let totalNumberOfSquares=500;
 
 
